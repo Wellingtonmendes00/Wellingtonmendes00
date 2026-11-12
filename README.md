@@ -57,8 +57,6 @@
 
 ### 🚀 me aventurando por aqui
 
-</div>## Hi there 👋
-
 <!--
 **Wellingtonmendes00/Wellingtonmendes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
